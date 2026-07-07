@@ -1,0 +1,31 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "0",
+      "localizations": [
+        {
+          "description": "Discogs-style value tracking and wantlist export",
+          "displayName": "Vinylkeep Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.vinylkeep.pro",
+      "referenceName": "Vinylkeep Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_locale": "en_US",
+    "_storefront": "USA",
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
